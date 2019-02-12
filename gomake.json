@@ -1,0 +1,15 @@
+{
+    "version": "v1.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/brad-jones/gomake/releases/download/v1.5.0/gomake_windows_amd64.exe#/gomake.exe",
+            "bin": [
+                "gomake.exe"
+            ],
+            "hash": "71a860de3b38017a4c70c976bb2ef9599397c315060e924c45900a277bf5d6cd"
+        }
+    },
+    "homepage": "https://github.com/brad-jones/gomake",
+    "license": "MIT",
+    "description": "A cross platform build tool / task runner that scales."
+}
