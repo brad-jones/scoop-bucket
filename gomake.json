@@ -1,12 +1,12 @@
 {
-    "version": "v1.6.2",
+    "version": "v1.6.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/brad-jones/gomake/releases/download/v1.6.2/gomake_windows_amd64.exe#/gomake.exe",
+            "url": "https://github.com/brad-jones/gomake/releases/download/v1.6.3/gomake_windows_amd64.exe#/gomake.exe",
             "bin": [
                 "gomake.exe"
             ],
-            "hash": "b02e054c693416379b009bd39415402a19b79c5ce055439ea8e020752ff2e91e"
+            "hash": "4ea184a07812e680e1c281195fde4c2f0a3715ac371dee978bd0b74998ad6c07"
         }
     },
     "homepage": "https://github.com/brad-jones/gomake",
