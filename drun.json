@@ -1,10 +1,10 @@
 {
-	"version": "v1.1.3",
+	"version": "v1.1.4",
 	"architecture": {
 		"64bit": {
-			"url": "https://github.com/brad-jones/drun/releases/download/v1.1.3/drun-windows-x64.zip",
+			"url": "https://github.com/brad-jones/drun/releases/download/v1.1.4/drun-windows-x64.zip",
 			"bin": ["drun.exe"],
-			"hash": "01f3c34fc1a575a61554305ef673e8807aba02e823359194b45556f15eabe646"
+			"hash": "405a3588125d3eb4cbc4a7c89da2779db19062e555ebf3eb93b29ad69de1dded"
 		}
 	},
 	"homepage": "https://github.com/brad-jones/drun",
