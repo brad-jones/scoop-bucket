@@ -1,12 +1,12 @@
 {
-    "version": "v1.0.1",
+    "version": "v1.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/brad-jones/ssh-add-with-pass/releases/download/v1.0.1/ssh_add_with_pass_windows_amd64.zip",
+            "url": "https://github.com/brad-jones/ssh-add-with-pass/releases/download/v1.0.2/ssh_add_with_pass_windows_amd64.zip",
             "bin": [
                 "ssh_add_with_pass.exe"
             ],
-            "hash": "a2e5782c4b9a2e6b0edbc454f9ac87867863d04a453d64bcb0c6bc8ad33060b6"
+            "hash": "0e1b181203c408d99b04ae486145ff13825890f702399c432f9067d8a5233ea3"
         }
     },
     "homepage": "https://github.com/brad-jones/ssh-add-with-pass",
