@@ -1,10 +1,10 @@
 {
-	"version": "v1.0.3",
+	"version": "v1.0.4",
 	"architecture": {
 		"64bit": {
-			"url": "https://github.com/brad-jones/winsudo/releases/download/v1.0.3/winsudo_amd64.zip",
+			"url": "https://github.com/brad-jones/winsudo/releases/download/v1.0.4/winsudo_amd64.zip",
 			"bin": ["sudo.exe"],
-			"hash": "bee9a010d07f7864d6cb15a518fa03de7d2bf47ac6cd8c05093d03a6e4f4301e"
+			"hash": "75883d5cbb54bd37204a86d3160c6d674708d3a53e8ba3b2b2d23ef62a1e0131"
 		}
 	},
 	"homepage": "https://github.com/brad-jones/winsudo",
