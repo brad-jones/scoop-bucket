@@ -1,12 +1,12 @@
 {
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/brad-jones/hashdir-cli/releases/download/v1.0.1/hashdir_windows_amd64.zip",
+      "url": "https://github.com/brad-jones/hashdir-cli/releases/download/v1.0.2/hashdir_windows_amd64.zip",
       "bin": [
         "hashdir.exe"
       ],
-      "hash": "861822dba6017502cb4a0b08ff38c371f69f2ce70ca8ff1c3f55077aeedb1dad"
+      "hash": "c6c48af2dab88ba72830bec5ead599f72c3dc152cbb527e1aa20c8363d3dba4a"
     }
   },
   "homepage": "https://github.com/brad-jones/hashdir",
